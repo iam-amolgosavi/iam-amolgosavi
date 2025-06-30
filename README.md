@@ -4,41 +4,31 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with 3.1+ years of exper
 
 I specialize in implementing **DevOps best practices** using tools like Docker, Kubernetes, Jenkins, Terraform, and Ansible with a strong focus on automation, reliability, and performance.
 
----
 
 ## 💻 My Technical Expertise
 
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-- **Build Tools:**  
-  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+- **Version Control:**  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Build Tools:**   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-- **Operating Systems:**  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- **Operating Systems:**   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- **Scripting:**  
-  ![Shell](https://img.shields.io/badge/Shell_Scripting-89e051?style=flat&logo=gnu-bash&logoColor=white)
+- **Scripting:**  ![Shell](https://img.shields.io/badge/Shell_Scripting-89e051?style=flat&logo=gnu-bash&logoColor=white)
   ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
 
-- **Cloud Platforms:**  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- **Cloud Platforms:**   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-- **Containerization:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Containerization:**  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- **CI/CD Tools:**  
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- **CI/CD Tools:**   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- **Infrastructure as Code:**  
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+- **Infrastructure as Code:**   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 - **Monitoring:**  
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
+  ![CloudWatch](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+ 
 ---
 
 ## 📈 GitHub Stats
