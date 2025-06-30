@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Amol 👋</h1>
+<h1 align="left">###Hi there, I'm Amol 👋###</h1>
 
 Welcome to my GitHub profile! I'm a **DevOps Engineer** with 3.1+ years of experience in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications in AWS cloud environments.
 
