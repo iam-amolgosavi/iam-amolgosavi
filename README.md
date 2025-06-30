@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi , I'm Amol Gosavi</h1><h3 align="center"> DevOps Engineer | AWS | Docker | Kubernetes | Terraform</h3>
 ---
