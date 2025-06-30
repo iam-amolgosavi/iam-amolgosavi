@@ -8,6 +8,7 @@ I specialize in implementing **DevOps best practices** using tools like Docker, 
 ## 💻 My Technical Expertise
 
 - **Version Control:**  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - **Build Tools:**   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 - **Operating Systems:**   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - **Scripting:**  ![Shell](https://img.shields.io/badge/Shell_Scripting-89e051?style=flat&logo=gnu-bash&logoColor=white)
