@@ -1,4 +1,4 @@
-<h1 align="left">###Hi there, I'm Amol 👋###</h1>
+<h1 align="left">Hi there, I'm Amol 👋</h1>
 
 Welcome to my GitHub profile! I'm a **DevOps Engineer** with 3.1+ years of experience in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications in AWS cloud environments.
 
@@ -18,7 +18,7 @@ I specialize in implementing **DevOps best practices** using tools like Docker, 
 - **CI/CD Tools:**   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 - **Infrastructure as Code:**   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-- **Monitoring:**  ![CloudWatch](https://img.shields.io/badge/CloudWatch-E6522C?style=flat&logo=prometheus&logoColor=white)
+- **Monitoring:**  ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
  
 ---
 
