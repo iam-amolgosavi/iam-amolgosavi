@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **DevOps Engineer** with **3.1+ years** of experience in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications in AWS cloud environments.
 
-I specialize in implementing **DevOps best practices** using tools like Docker, Kubernetes, Jenkins, Terraform, and Ansible with a strong focus on automation, reliability, and performance.
+I specialize in implementing **DevOps best practices** using tools like **Docker, Kubernetes, Jenkins, Terraform, and Ansible with a strong focus on automation, reliability, and performance**.
 
 
 ## 💻 My Technical Expertise
