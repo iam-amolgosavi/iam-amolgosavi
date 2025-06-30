@@ -32,5 +32,5 @@ I specialize in implementing **DevOps best practices** using tools like Docker, 
 
 ## 📬 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-gosavi004)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/amol-gosavi004)
 - 📧 Email: agosavi0493@gmail.com
